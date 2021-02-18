@@ -11,3 +11,4 @@ Some examples from original to encrypted to decrypted images:
   <img src="Images/encrypted_sgtpepper.jpg" width="100" /> 
   <img src="Images/decrypted_sgtpepper.jpg" width="100" />
 </p>
+The full report is available at: http://bit.ly/rabinreport
